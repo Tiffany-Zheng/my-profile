@@ -1,0 +1,95 @@
+body{
+	background-color: #e8ffff;
+	color: balck
+	font-family:Courier;
+	font-weight: lighter;
+	text-align: center;
+}
+
+
+
+h1{
+	color: #64a7a3;
+    font-family: superclarendon;
+    font-weight: 200;
+    letter-spacing: 10px;
+    font-size: 60;
+    font-weight: bold
+    text-transform: uppercase;
+    text-align: center;
+}
+
+a{
+	color: #69afd8;
+    font-family: Arial;
+    font-weight: 200;
+    letter-spacing: 3px;
+    font-size: 60;
+    font-weight: bold
+
+}
+
+h2{
+	color: #9ab3f5;
+    font-family: American typewriter;
+    letter-spacing: 4px;
+    font-size: 50;
+    font-weight: 50;
+    
+}
+
+p{
+	color: #6eaaab;
+    font-family: Arial;
+    font-weight: 200;
+    letter-spacing: 2;
+}
+
+img{
+	border-radius:500px;
+}
+
+#banner{
+	background: #b5e4e3;
+    padding: 60px;
+    margin: 30px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+    border-radius: 20px
+   
+}
+
+#one{
+	background: rgb(79 180 255 / 20%);
+    padding: 60px;
+    margin: 30px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 20px;
+    
+
+}
+#two{
+	background: rgb(79 180 255 / 20%);
+    padding: 60px;
+    margin: 30px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 20px
+    
+}
+
+#three{
+	background: rgb(79 180 255 / 20%);
+    padding: 60px;
+    margin: 30px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 20px
+    
+}
+
+#four{
+	background: aliceblue;
+    padding: 60px;
+    margin: 30px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 20px
+    
+}
